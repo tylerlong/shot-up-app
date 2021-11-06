@@ -1,2 +1,2 @@
-# shot-up-app
+# ShotUp
 ShotUp, screenShot + markUp.
